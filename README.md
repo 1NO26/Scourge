@@ -1,4 +1,4 @@
-$\textcolor{olive}{\TeX} \ \textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
+$$\textcolor{Blue}{\Scourge Hub} \ \textcolor{darkgray}{}$$
 ```diff
 ! SCP-3008
 
