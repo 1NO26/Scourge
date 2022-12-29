@@ -1,21 +1,21 @@
 -----SCP-3008
+```diff
++ Features:
 
-Features:
-
-Teleports 
-Get Foods and medkit (dropdown)
-Custom flashlight
-First person and third person toggle
-WalkSpeed
-JumpPower
-Gravity
-Soft fall
-Inf jump
-BHop
-Employee ESP
-Fly
-More!
-
+- Teleports 
+- Get Foods and medkit (dropdown)
+- Custom flashlight
+- First person and third person toggle
+- WalkSpeed
+- JumpPower
+- Gravity
+- Soft fall
+- Inf jump
+- BHop
+- Employee ESP
+- Fly
+- More!
+```
 Next update:
 
 + Toxic chat
