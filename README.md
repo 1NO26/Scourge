@@ -1,4 +1,4 @@
-$$\textcolor{Blue}{\Scourge Hub} \ \textcolor{darkgray}{}$$
+$$\textcolor{Blue}{Scourge Hub} \ \textcolor{red}{On Top!}$$
 ```diff
 ! SCP-3008
 
