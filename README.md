@@ -1,5 +1,5 @@
 
-![#c5f015] Scourge V2 `#c5f015`
+(https://placehold.it/150/ffffff/ff0000?text=Scourge Hub)
 
 ```diff
 ! SCP-3008
