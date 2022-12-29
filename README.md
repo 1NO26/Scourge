@@ -1,6 +1,4 @@
-
-(https://placehold.it/150/ffffff/ff0000?text=Scourge Hub)
-
+$\mathscr{\color{red}{this} \ \ \color{blue}{is \ \ a \ \ paragraph} \ \ \color{yellow}{in \ \ another \ \ font}}$
 ```diff
 ! SCP-3008
 
