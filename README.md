@@ -1,30 +1,25 @@
------SCP-3008
 ```diff
-+ Features:
+! SCP-3008
 
-- Teleports 
-- Get Foods and medkit (dropdown)
-- Custom flashlight
-- First person and third person toggle
-- WalkSpeed
-- JumpPower
-- Gravity
-- Soft fall
-- Inf jump
-- BHop
-- Employee ESP
-- Fly
-- More!
-```
-Next update:
+- Features:
 
-+ Toxic chat
-+ Waypoints
-+ Respawn where you died
++ Teleports 
++ Get Foods and medkit (dropdown)
++ Custom flashlight
++ First person and third person toggle
++ WalkSpeed
++ JumpPower
++ Gravity
++ Soft fall
++ Inf jump
++ BHop
++ Employee ESP
++ Fly
++ More!
 
------Armored Patrol
+! Armored Patrol
 
-Features:
+-Features:
 
 + Orbital strike user (with options to control everything)
 + inf ammo 
@@ -32,12 +27,9 @@ Features:
 + select player 
 + Become invisible
 + view player
-- Silent aim 
-- Rifle kill all 
-- no cooldown 
-
-+ Major update
-
++ Silent aim 
++ Rifle kill all 
++ no cooldown 
 + Silent aim
 + No Cooldown
 + Fix Dropdown
@@ -52,8 +44,7 @@ Features:
 + Infinite jump
 + Noclip
 + inf build
- 
- + Orbital strike accuracy fixed (3 more accuracy updates coming really soon)
++ Orbital strike accuracy fixed (3 more accuracy updates coming really soon)
 + No cooldown
 + Refresh GUI
 + Toggle GUI
@@ -64,9 +55,9 @@ Features:
 + fixed inf ammo
 + Fixed orbital strike
 
------MM2
+! MM2
 
-Features:
+- Features:
 
 + OP autofarm
 + Kill (Sherrif, Murderer, All)
@@ -78,19 +69,15 @@ Next Update:
 
 +Suggests
 
------Notoriety
+! Notoriety
 
-Features:
+- Features:
 
 + Overnight Autofarm
 
-Next Update:
+! Sword Simulator
 
-+ More Maps
+- Features:
 
-Sword Simulator
-
-Features:
-
-+ OP GUI lazy ass to write
-
++ Everything Needed
+```
