@@ -67,10 +67,7 @@ $$\Large\color[RGB]{155,127,0}{Scourge Hub}$$
 + Expose
 + ESP
 + Godmode
-
-Next Update:
-
-+Suggests
++ More!
 
 ! Notoriety
 
