@@ -1,4 +1,4 @@
-$$\Large\color[RGB]{23,17,0}{Scourge Hub}$$
+$$\Large\color[RGB]{23,107,0}{Scourge Hub}$$
 
 
 ```diff
