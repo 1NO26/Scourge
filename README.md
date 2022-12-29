@@ -1,7 +1,7 @@
 
 ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Deneme `#c5f015`
 
-
+<span style="color:orange;">Word up</span>
 ```diff
 ! SCP-3008
 
