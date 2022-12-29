@@ -1,4 +1,4 @@
-$$\colorbox{red}{Scourge Hub}$$
+$\Large{Scourge Hub}$$
 
 
 ```diff
